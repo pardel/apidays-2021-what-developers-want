@@ -1,2 +1,3 @@
-# apidays-2021-what-developers-want
-"What Developers Want" - apidays Live Paris 2021
+# "What Developers Want"
+A talk I've given at apidays Live Paris in Deccember 2021.
+
